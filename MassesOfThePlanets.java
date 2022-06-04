@@ -8,6 +8,7 @@ public class MassesOfThePlanets {
       p.setSlice2("Earth", 1.00, Color.blue);
       p.setSlice3("Mars", 0.11, Color.gray);
       p.setSlice5("Jupiter", 318.4, Color.green);
+      p.setSlice6("Saturn", 95.3, Color.magenta);
       
    }
 }
