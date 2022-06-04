@@ -128,3 +128,4 @@ public class PieChartWriter extends JPanel {
       c6 = c;
    }  
 }
+// perfundim
